@@ -1,0 +1,10 @@
+[04-Mar-2025 14:20:58 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''',,'','')' at line 1 in /home/castamot/public_html/parking-lot/model/typoServicio.php:42
+Stack trace:
+#0 /home/castamot/public_html/parking-lot/model/typoServicio.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/castamot/public_html/parking-lot/model/typoServicio.php on line 42
+[15-May-2025 11:00:31 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''',,'','')' at line 1 in /home/castamot/public_html/parking-lot/model/typoServicio.php:42
+Stack trace:
+#0 /home/castamot/public_html/parking-lot/model/typoServicio.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/castamot/public_html/parking-lot/model/typoServicio.php on line 42
